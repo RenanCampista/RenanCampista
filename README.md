@@ -49,10 +49,10 @@
 <div style="text-align: center;" align="center">
   <h3> GitHub Stats </h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=RenanCampista&show_icons=true&theme=dark&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&border_radius=3" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=RenanCampista&show_icons=true&theme=transparent&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&border_radius=3" alt="GitHub stats">
 
   <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCampista&show_icons=true&theme=dark&layout=compact&&line_height=10&card_width=290&border_radius=3" alt="Most Used Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCampista&show_icons=true&theme=transparent&layout=compact&&line_height=10&card_width=290&border_radius=3" alt="Most Used Languages">
   </a>
 </div>
 
