@@ -11,7 +11,7 @@
  - 🌱 I’m currently studying Computer Science student at the Federal University of Espírito Santo.
  
  - 🔭 I am looking for my first job opportunity.
- - 
+  
  - 👨🏻‍💻 Interest in Data Science.
 </p>
 
